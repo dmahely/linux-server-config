@@ -19,8 +19,10 @@ The Linux Server Configuration project requires using an instance of Ubuntu on A
 # Before Running the Program
 The IP address of the server is 52.66.195.248. The SSH port is 2200.
 
+To login as the grader user: `$ ssh -i ~/.ssh/udacity_key.rsa -p 2200 grader@52.66.195.248`
+
 # Running the Application
-Visit ec2-52-66-195-248.ap-south-1.compute.amazonaws.com on your browser.
+Visit [http://ec2-52-66-195-248.ap-south-1.compute.amazonaws.com](http://ec2-52-66-195-248.ap-south-1.compute.amazonaws.com) on your browser.
 
 # After Running the Program
 You should be seeing the homepage of the item catalog web application.
@@ -30,3 +32,7 @@ You should be seeing the homepage of the item catalog web application.
 https://github.com/chuanqin3/udacity-linux-configuration
 
 https://github.com/iliketomatoes/linux_server_configuration
+
+https://github.com/davidduckwitz/udacity-linux-server-config
+
+https://github.com/sagarchoudhary96/P8-Linux-Server-Configuration
