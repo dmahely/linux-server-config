@@ -26,6 +26,7 @@ Visit [http://ec2-52-66-195-248.ap-south-1.compute.amazonaws.com](http://ec2-52-
 
 # After Running the Program
 You should be seeing the homepage of the item catalog web application.
+
 ![Homepage of Item Catalog Application](img/homepage.png?raw=true)
 
 # Acknowledgments
