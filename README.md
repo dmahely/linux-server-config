@@ -24,6 +24,9 @@ Visit ec2-52-66-195-248.ap-south-1.compute.amazonaws.com on your browser.
 
 # After Running the Program
 You should be seeing the homepage of the item catalog web application.
+![Homepage of Item Catalog Application](img/homepage.png?raw=true)
 
 # Acknowledgments
 https://github.com/chuanqin3/udacity-linux-configuration
+
+https://github.com/iliketomatoes/linux_server_configuration
