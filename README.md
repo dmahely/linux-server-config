@@ -4,17 +4,23 @@ The Linux Server Configuration project requires using an instance of Ubuntu on A
 
 # Completed Tasks
 1. Updated all currently installed packages.
-2. Created a new user `grader` and gave them sudo access. 
-3. Configured the Uncomplicated Firewall ufw.
-4. Installed various packages such as git, sqlaclhemy and Flask.
-5. Changed the default SSH port.
-6. Installed and configured Apache and PostgreSQL.
+2. Configured the local timezone to UTC.
+3. Created a new user `grader` and gave them sudo access. 
+4. Configured the SSH-key authorization for the `grader` user.
+5. Enforced SSH-key login.
+6. Prohibited remote root login.
+7. Configured the Uncomplicated Firewall ufw.
+8. Installed various packages such as pip and git.
+9. Changed the default SSH port.
+10. Installed and configured Apache and PostgreSQL.
+11. Cloned the Item Catalog web application repository from GitHub. 
+12. Installed the application's dependencies such as sqlalchemy, Flask and oauth2client.
 
 # Before Running the Program
-The IP address of the server is 13.127.179.146. The SSH port is 2200.
+The IP address of the server is 52.66.195.248. The SSH port is 2200.
 
 # Running the Application
-Visit ec2-13-127-179-146.ap-south-1.compute.amazonaws.com on your browser.
+Visit ec2-52-66-195-248.ap-south-1.compute.amazonaws.com on your browser.
 
 # After Running the Program
 You should be seeing the homepage of the item catalog web application.
